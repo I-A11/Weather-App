@@ -1,4 +1,4 @@
-const appId = 'df0dd1cc12332f3291353c0588ea2e25';
+const appId = 'Get your Id';
 const creatCardHtml = (name, temp, feelsLike, description) =>
     `
 <div class="card-body ms-4 pt-3">
