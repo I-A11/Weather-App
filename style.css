@@ -5,6 +5,10 @@ body {
     background-size: cover;
 }
 
+.navbar {
+    background-color:rgb(42, 190, 190) ;
+}
+
 .city {
     margin-top: 2.5rem;
     margin-left: 1.2rem;
@@ -12,7 +16,8 @@ body {
 
 #submit-button {
     margin-top: 1.5rem;
-    margin-left: 1.2rem;
+    margin-left: 1.5rem;
+    background-color: rgb(42, 190, 190);
 }
 
 .card {
