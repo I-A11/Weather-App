@@ -14,4 +14,6 @@ Using HTML, Bootstrap, Css and JavaScript to build this project
 - JavaScript
 
 
+![image info](./weather-app.png)
+
 
