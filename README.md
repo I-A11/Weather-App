@@ -15,4 +15,3 @@ Using HTML, Bootstrap, Css and JavaScript to build this project
 
 
 
-weather-app.png
