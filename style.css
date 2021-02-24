@@ -1,0 +1,21 @@
+body {
+    font-family:'Roboto Mono', monospace;
+    background-image:url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=564&q=80") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.city {
+    margin-top: 2.5rem;
+    margin-left: 1.2rem;
+}
+
+#submit-button {
+    margin-top: 1.5rem;
+    margin-left: 1.2rem;
+}
+
+.card {
+    margin-left: 1.2rem;
+    margin-top: 3.5rem;
+}
