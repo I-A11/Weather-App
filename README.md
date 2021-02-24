@@ -14,4 +14,4 @@ Using HTML, Bootstrap, Css and JavaScript to build this project
 - JavaScript
 
 
-![alt text](Isolated.png "weather-app")
+
